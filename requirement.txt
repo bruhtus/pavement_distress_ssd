@@ -1,0 +1,12 @@
+fire
+labelme
+moviepy
+natsort
+opencv-python
+streamlit>=0.59.0
+tensorboardX>=2.0
+torch>=1.3.0
+torchvision>=0.5.0
+tqdm
+Vizer
+yacs
