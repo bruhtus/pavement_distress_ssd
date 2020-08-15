@@ -12,9 +12,10 @@ from fire import Fire
 from tqdm import tqdm
 from datetime import datetime
 from streamlit import caching
-from vizer.draw import draw_boxes
+#from vizer.draw import draw_boxes
 from moviepy.editor import VideoFileClip
 from moviepy.video.io.ffmpeg_tools import ffmpeg_extract_subclip
+from bounding_box.draw import draw_boxes
 
 from ssd.config import cfg
 from ssd.data.datasets import MyDataset
