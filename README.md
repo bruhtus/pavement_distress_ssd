@@ -30,7 +30,10 @@ ssd/data/datasets
     |_ <im-N-name>.json
 |__ ...
 ```
-use labelme to do labeling stuff and then use [labelme2coco.py](github.com/Tony607/labelme2coco) to generate COCO data formatted JSON.
+Use labelme to do labeling stuff and then use [labelme2coco.py](github.com/Tony607/labelme2coco) to generate COCO data formatted JSON.
+
+## Test
+Please see [documentation.md](documentation.md) for more detailed usage of the testing implementation.
 
 ## Develop Guide
 
