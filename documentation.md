@@ -19,4 +19,4 @@ Here is the documentation how to use pavement distress detector:
 4. After every file and folder in the right place, then hit refresh (or F5) to see the newly added file and folder.
 5. The result of this application was saved in folder 'results'. For video result saved in format .mp4 and for counting result saved in format .txt.
 6. The format name of the result is 'Year-Month-Date_Hours-Minutes-Seconds_configuration_name'.
-7. This aplication only for testing purposes.
+7. This aplication is only for testing purposes.
