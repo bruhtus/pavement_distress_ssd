@@ -8,7 +8,7 @@ import PIL.ImageFont as ImageFont
 from ._utils import find_contours
 
 try:
-    FONT = ImageFont.truetype('~/pavement_distress_ssd/bounding_box/font/arial.ttf', 24, encoding='unic')
+    FONT = ImageFont.truetype('path/to/pavement_distress_ssd/bounding_box/font/arial.ttf', 24, encoding='unic')
 except IOError:
     FONT = ImageFont.load_default()
 
