@@ -1,4 +1,4 @@
-# Implementation of SSD in PyTorch to Classify Pavement Distress From Video
+# Implementation of SSD in PyTorch to Classify Pavement Distress For Video
 
 This repository implements [SSD (Single Shot MultiBox Detector)](https://arxiv.org/abs/1512.02325). This implementation is heavily influenced by the projects [high quality, fast, modular reference implementation of ssd in pytorch](https://github.com/lufficc/SSD), this repository aims to classify pavement distress based on SSD using video as an input.
 
