@@ -1,6 +1,7 @@
-from ssd.data.datasets import VOCDataset, COCODataset
+from ssd.data.datasets import VOCDataset, COCODataset, MyDataset
 from .coco import coco_evaluation
 from .voc import voc_evaluation
+from .my_dataset import my_dataset_evaluation
 
 
 def evaluate(dataset, predictions, output_dir, **kwargs):
