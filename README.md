@@ -44,7 +44,7 @@ If you use this project in your research, please cite this project.
 ```text
 @misc{bruhtus2020,
     author = {Robertus Diawan Chris},
-    title = {{Implementation of SSD in PyTorch to Classify Pavement Distress From Video},
+    title = {{Implementation of SSD in PyTorch to Classify Pavement Distress on Video},
     year = {2020},
     howpublished = {\url{https://github.com/bruhtus/pavement_distress_ssd}}
 }
