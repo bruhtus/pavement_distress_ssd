@@ -30,14 +30,14 @@ ssd/data/datasets
     |_ <im-N-name>.json
 |__ ...
 ```
-Use labelme to do labeling stuff and then use [labelme2coco.py](github.com/Tony607/labelme2coco) to generate COCO data formatted JSON.
+Use labelme to do labeling stuff and then use [labelme2coco.py](https://github.com/Tony607/labelme2coco) to generate COCO data formatted JSON.
 
 ## Test
 Please see [documentation.md](documentation.md) for more detailed usage of the testing implementation.
 
 ## Develop Guide
 
-If you want to add your custom components, please see [DEVELOP GUIDE on lufficc repo](github.com/lufficc/SSD/blob/master/DEVELOP_GUIDE.md) for more details.
+If you want to add your custom components, please see [DEVELOP GUIDE on lufficc repo](https://github.com/lufficc/SSD/blob/master/DEVELOP_GUIDE.md) for more details.
 
 ## Citations
 If you use this project in your research, please cite this project.
