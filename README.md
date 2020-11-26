@@ -51,3 +51,4 @@ If you use this project in your research, please cite this project.
     howpublished = {\url{https://github.com/bruhtus/pavement_distress_ssd}}
 }
 ```
+![stalkers](https://visitor-badge.glitch.me/badge?page_id=bruhtus.pdd-badge)
